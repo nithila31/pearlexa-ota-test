@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "bin_url": "https://github.com/nithila31/pearlexa-ota-test/blob/deec044ef9c14a0c980844da24419db9c51ed06c/Pearlexa-BP5758D.bin",
+  "bin_url": "https://github.com/nithila31/pearlexa-ota-test/raw/refs/heads/main/Pearlexa-BP5758D.bin",
   "force": false
 }
