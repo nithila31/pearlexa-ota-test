@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.2",
   "bin_url": "https://raw.githubusercontent.com/nithila31/pearlexa-ota-test/main/Pearlexa.bin",
   "force": false,
   "hardware": "PX-SG100-DC250-24-X-V1",
