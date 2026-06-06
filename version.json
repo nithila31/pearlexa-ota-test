@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "bin_url": "https://raw.githubusercontent.com/nithila31/pearlexa-ota-test/main/Pearlexa_Split_Project.bin",
+  "version": "1.0.0",
+  "bin_url": "https://raw.githubusercontent.com/nithila31/pearlexa-ota-test/main/Pearlexa_BP5758D.bin",
   "force": false,
-  "hardware": "PX-SG100-DC250-24-X-V1",
-  "model": "gate_controller",
+  "hardware": "Pearlexa-BP5758D-C3",
+  "model": "Pearlexa-BP5758D-C3",
   "min_current_version": "1.0.0",
   "rollout": 100
 }
