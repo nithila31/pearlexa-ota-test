@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "bin_url": "https://raw.githubusercontent.com/nithila31/pearlexa-ota-test/main/Pearlexa_BP5758D.bin",
   "force": false,
-  "hardware": "Pearlexa-BP5758D-C3",
+  "hardware": "smart_bulb",
   "model": "Pearlexa-BP5758D-C3",
   "min_current_version": "1.0.0",
   "rollout": 100
