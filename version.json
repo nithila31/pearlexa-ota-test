@@ -4,6 +4,6 @@
   "force": true,
   "hardware": "PX-SG100-DC250-24-X-V1",
   "model": "gate_controller",
-  "min_current_version": "1.0.2",
+  "min_current_version": "1.0.0",
   "rollout": 100
 }
